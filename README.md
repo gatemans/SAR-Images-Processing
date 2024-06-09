@@ -12,6 +12,6 @@ This project was inspired by research in an article "Two Novel Bayesian Multisca
  Speckle Suppression in SAR Images" and statistical modeling.
 Special thanks to viewers via LinkedIn.
 
-# Mohammad Mahdi Khaligh
+% Mohammad Mahdi Khaligh
 
 @gatemans

@@ -13,6 +13,7 @@ This project was inspired by research in an article "Two Novel Bayesian Multisca
 Special thanks to viewers via LinkedIn.
 
 Mohammad Mahdi Khaligh
-U+1F1EE
+
+
 @gatemans
 .

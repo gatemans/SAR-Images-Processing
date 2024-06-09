@@ -1,4 +1,4 @@
-#Image Analysis with Wavelet Decomposition and Statistical Modeling
+# Image Analysis with Wavelet Decomposition and Statistical Modeling
 This MATLAB repository contains code for analyzing the log-transformed image E2960902. It includes implementations for:
 
 . Wavelet decomposition and visualization of histograms for wavelet coefficients.

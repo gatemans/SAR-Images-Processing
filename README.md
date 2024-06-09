@@ -8,8 +8,10 @@ This MATLAB repository contains code for analyzing the log-transformed image E29
 . Visualization of empirical histograms and density functions.
 
 Acknowledgements
-This project was inspired by research in image processing and statistical modeling.
-Special thanks to contributors and collaborators.
+This project was inspired by research in an article "Two Novel Bayesian Multiscale Approaches for
+ Speckle Suppression in SAR Images" and statistical modeling.
+Special thanks to viewers via LinkedIn.
 
-Mohammad Mahdi Khaligh
+# Mohammad Mahdi Khaligh
+
 @gatemans

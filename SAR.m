@@ -2,6 +2,7 @@
 %% modification(s): add output processing image
 % Read and process the image
 image = imread('SAR.png'); 
+image = rgb2gray(image);
 
 % Apply logarithmic transformation
 log_image = log(double(image) + 1);

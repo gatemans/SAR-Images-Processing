@@ -1,3 +1,5 @@
+%% SAR 1.10v
+%% modification(s): add output processing image
 % Read and process the image
 image = imread('SAR.png'); 
 
